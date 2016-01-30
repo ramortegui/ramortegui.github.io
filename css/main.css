@@ -27,3 +27,6 @@ footer,header,hgroup,menu,nav,section {
 nav ul {
   list-style:none;
 }
+
+
+div.panel-body div { display: inline-block; width: 250px; vertical-align: top;  }
