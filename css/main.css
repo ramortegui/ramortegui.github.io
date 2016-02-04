@@ -34,3 +34,5 @@ div.panel-body div { display: inline-block; width: 250px; vertical-align: top;  
 nav div div ul li a img {
   width: 32px;
 }
+
+ul li { list-style-type: none;  }
