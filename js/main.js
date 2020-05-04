@@ -1,1 +1,3 @@
-$("#footnote-year").html((new Date()).getFullYear());
+footnote = document.getElementById("footnote-year");
+footnote.innerHTML = (new Date()).getFullYear();
+
